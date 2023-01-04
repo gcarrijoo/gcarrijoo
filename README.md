@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @gcarrijoo
-- 🌱 I’m currently learning about technology, systems development
 
-<!---
-gcarrijoo/gcarrijoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi 👋
+I am a recent graduate in Systems Development looking for opportunities and collaboration in projects related to web development.
+
+- 💻 I am currently delving into HTML, CSS, JavaScript and PHP.
+
+- 🍇 Linkedin: Giovanna Carrijo
+- 🧁 Instagram: giovannacarrijoo
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=gcarrijoo)
+
+
